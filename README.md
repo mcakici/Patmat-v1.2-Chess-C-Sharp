@@ -1,6 +1,6 @@
 # Patmat
-iki yıl önce c# ile yazmış olduğum iki kişilik satranç oyunu
-
+iki yıl önce C# ile yazmış olduğum iki kişilik satranç
+10.11.2012
 
 /* Changelog v1.2 */
 - Taş hareket yerleri gösterildi.
