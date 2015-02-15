@@ -1,0 +1,14 @@
+/* Changelog v1.2 */
+- Taþ hareket yerleri gösterildi.
+- Taþ hareket yerleri gösterimi açýp kapama eklendi.
+- Taþ hareket sesleri eklendi.
+- Ses açýp kapama özelliði eklendi.
+- Oyun istatistiði eklendi (Süre, hamle sayýsý)
+- Piyon taþýnýn atlama hatasý giderildi.
+- Puan sýfýrlanma sorunu giderildi.
+- Piyon terfi etme özelliði eklendi. 
+Piyon artýk son kareye ulaþtýðýnda 4 farklý taþa dönüþebiliyor.
+- Zamanlama hatasý giderildi.
+
+Hemen hemen bütün satranç kurallarý iþlendi ve kontrol edildi.
+Iyi Oyunlar..
