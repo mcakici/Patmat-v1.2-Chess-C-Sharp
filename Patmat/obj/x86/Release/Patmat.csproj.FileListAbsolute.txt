@@ -1,0 +1,75 @@
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\bin\Release\Patmat.exe
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\bin\Release\Patmat.pdb
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.Form1.resources
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.Properties.Resources.resources
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.exe
+C:\Users\Mustafa\documents\visual studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.Form2.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\obj\x86\Release\Patmat.FormPiyon.resources
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bat.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bfil.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bkale.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bpiyon.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bsah.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Bvezir.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Sat.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Sfil.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Skale.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Spiyon.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Ssah.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.Svezir.png
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.basla.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.hit.wav
+C:\Users\Mustafa\Documents\Visual Studio 2010\Projects\Patmat\Patmat\bin\Release\data\Patmat.move.wav
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.exe
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.pdb
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.basla.wav
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bat.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bfil.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bkale.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bpiyon.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bsah.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bvezir.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.hit.wav
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.move.wav
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Sat.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Sfil.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Skale.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Spiyon.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Ssah.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Svezir.png
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\Patmat.exe
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\Patmat.pdb
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Form1.resources
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Form2.resources
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.FormPiyon.resources
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Properties.Resources.resources
+C:\Users\gliko_000\Desktop\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.csproj.GenerateResource.Cache
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.exe
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.pdb
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.basla.wav
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bat.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bfil.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bkale.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bpiyon.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bsah.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Bvezir.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.hit.wav
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.move.wav
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Sat.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Sfil.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Skale.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Spiyon.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Ssah.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\data\Patmat.Svezir.png
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\Patmat.exe
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\bin\Release\Patmat.pdb
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.csprojResolveAssemblyReference.cache
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Form1.resources
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Form2.resources
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.FormPiyon.resources
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.Properties.Resources.resources
+D:\YEDEK 16 ARALIK 13\Oyun_Patmat_v1.2\Patmatv1.2_source_code\Patmat\obj\x86\Release\Patmat.csproj.GenerateResource.Cache
